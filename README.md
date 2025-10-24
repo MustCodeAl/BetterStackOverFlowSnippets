@@ -18,6 +18,7 @@ Planned features:
 - Option Use custom fonts with ligatures
 - Dark mode
 - Custom themes
+- Expansion to other browsers
 
 Possible features:
 - Ability to display snippet when searching for problems again directly on search engine
