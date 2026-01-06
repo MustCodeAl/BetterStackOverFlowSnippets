@@ -1,4 +1,6 @@
 # BetterStackOverFlowSnippets
+UPDATE: Copy button was built into stack overflow as well as syntax highlighting, but other features will still be planned for this extension
+
 Chrome Extension to enhance snippets on StackOverflow and other platforms.
 
 Stop looking at ugly code! Adds many features to snippets when searching for solutions on StackOverflow.
