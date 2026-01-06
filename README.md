@@ -6,15 +6,17 @@ Stop looking at ugly code! Adds many features to snippets when searching for sol
 To allow developers to look at prettified code to make it easier to read. 
 
 Features : 
-- Copy button
+
 - Colorized snippet blocks with language annotation
+- Outlined to color of language
+- Convert json to yaml, toml, and vice verA
 
 
 
 
 Planned features:
 - Button to save snippets to snippet manager of choice (default will be Masscode)
-- Option to include a link to question / post as a comment when copying
+- Ability to export code as live a template to text editor of choice
 - Option to use custom fonts with ligatures
 - Dark mode
 - Custom themes
