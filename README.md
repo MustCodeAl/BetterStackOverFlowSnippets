@@ -6,11 +6,9 @@ Stop looking at ugly code! Adds many features to snippets when searching for sol
 To allow developers to look at prettified code to make it easier to read. 
 
 Features : 
-
-- Colorized snippet blocks with language annotation:
+- Colorized snippet blocks with language annotation to Outlined to color of language with different themes:
   <img width="988" height="708" alt="Screenshot 2026-01-06 at 3 42 00 PM" src="https://github.com/user-attachments/assets/7a7567a3-519c-4857-81c9-276e5abb6d6e" />
 
-- Outlined to color of language
 - Convert json to yaml, toml, and vice verA
 
 
