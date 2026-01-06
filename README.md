@@ -7,7 +7,9 @@ To allow developers to look at prettified code to make it easier to read.
 
 Features : 
 
-- Colorized snippet blocks with language annotation
+- Colorized snippet blocks with language annotation:
+  <img width="988" height="708" alt="Screenshot 2026-01-06 at 3 42 00 PM" src="https://github.com/user-attachments/assets/7a7567a3-519c-4857-81c9-276e5abb6d6e" />
+
 - Outlined to color of language
 - Convert json to yaml, toml, and vice verA
 
