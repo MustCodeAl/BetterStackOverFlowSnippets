@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Better StackOverflow  Snippets",
+  "description": "Better StackOverflow styling",
+  "version": "0.0.1",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": ["clipboardWrite", "storage"],
+  "action": {
+    "default_popup": "options.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://stackoverflow.com/*",
+        "*://*.stackoverflow.com/*",
+        "*://stackexchange.com/*",
+        "*://superuser.com/*",
+        "*://serverfault.com/*",
+        "*://askubuntu.com/*",
+        "*://stackapps.com/*",
+        "*://mathoverflow.net/*"
+      ],
+      "js": ["js/content.js"],
+      "css": ["css/style.css"]
+    }
+  ]
+}
